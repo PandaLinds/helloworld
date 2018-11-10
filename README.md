@@ -1,2 +1,2 @@
 # helloworld
-Figuring things
+Figuring things out
